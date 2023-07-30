@@ -1,0 +1,21 @@
+{
+  "name": "@yummy/design-tokens",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "PratikshaJnu10 <pratikshaj@nu10.co>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/design-tokens.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/design-tokens.test.js",
+    "tsc": "tsc",
+    "build": "tsc"
+  }
+}
